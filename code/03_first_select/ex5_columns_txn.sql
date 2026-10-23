@@ -1,0 +1,12 @@
+-- ex5_columns_txn.sql - the data dictionary of transactions
+USE Northbridge;
+SELECT COLUMN_NAME, DATA_TYPE, IS_NULLABLE
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_SCHEMA = 'dbo'
+  AND TABLE_NAME = 'transactions'
+ORDER BY ORDINAL_POSITION;
+
+SELECT COUNT(*) AS column_count
+FROM INFORMATION_SCHEMA.COLUMNS
+WHERE TABLE_SCHEMA = 'dbo'
+  AND TABLE_NAME = 'transactions';

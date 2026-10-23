@@ -1,0 +1,21 @@
+# created by the scripts
+output/
+figures/
+# your virtual environment and Python caches
+.venv/
+__pycache__/
+*.pyc
+# your own practice files (the book's files are the answer key)
+my_*
+# Spark and editor files
+spark-warehouse/
+metastore_db/
+derby.log
+.vscode/
+.DS_Store
+# R and RStudio
+.Rproj.user/
+.Rhistory
+.RData
+*.Rproj
+rsconnect/

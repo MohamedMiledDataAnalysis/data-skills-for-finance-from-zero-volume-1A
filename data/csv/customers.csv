@@ -1,0 +1,501 @@
+customer_id,first_name,last_name,city,country,segment,join_date,risk_rating
+C0001,Oscar,Green,London,United Kingdom,Retail,2014-04-20,4
+C0002,Thomas,Hall,Frankfurt,Germany,Retail,2024-11-03,3
+C0003,Chloe,Roberts,Leeds,United Kingdom,Private,2021-11-22,2
+C0004,Ava,Robinson,Bristol,United Kingdom,SME,2022-01-31,1
+C0005,Harry,Bernard,Frankfurt,Germany,Retail,2020-11-28,2
+C0006,Mateo,Thompson,New York,United States,SME,2023-07-09,3
+C0007,Isla,Hall,Leeds,United Kingdom,Retail,2018-06-14,3
+C0008,Priya,Dubois,Lyon,France,Retail,2012-07-21,4
+C0009,Leo,Walker,Manchester,United Kingdom,Retail,2024-06-08,3
+C0010,Oscar,Rossi,London,United Kingdom,Private,2023-01-05,2
+C0011,Hugo,Walker,Edinburgh,United Kingdom,Retail,2022-09-30,3
+C0012,Charlie,Davies,Paris,France,Private,2013-02-04,5
+C0013,Yusuf,Brown,Edinburgh,United Kingdom,Private,2021-08-18,3
+C0014,Lily,Novak,Birmingham,United Kingdom,SME,2022-03-31,3
+C0015,Jack,Patel,Leeds,United Kingdom,Retail,2018-11-25,3
+C0016,Priya,Roberts,Bristol,United Kingdom,SME,2021-01-05,3
+C0017,Freya,Smith,London,United Kingdom,Retail,2022-04-11,4
+C0018,George,Lewis,Frankfurt,Germany,Retail,2022-11-21,3
+C0019,Harry,Rossi,Paris,France,Retail,2012-10-02,4
+C0020,Mateo,Rossi,Manchester,United Kingdom,Retail,2023-07-22,2
+C0021,Sophia,Walker,Frankfurt,Germany,SME,2022-09-30,5
+C0022,Sofia,Roberts,Bristol,United Kingdom,Retail,2016-05-13,3
+C0023,Leo,Lewis,Manchester,United Kingdom,Retail,2012-01-02,3
+C0024,Camille,Taylor,Edinburgh,United Kingdom,Retail,2016-06-16,2
+C0025,Chloe,Hall,Bristol,United Kingdom,SME,2020-01-05,2
+C0026,Charlie,Khan,Manchester,United Kingdom,Private,2023-01-13,3
+C0027,Jack,Davies,Frankfurt,Germany,Retail,2014-12-10,5
+C0028,Oscar,Robinson,Lyon,France,Retail,2015-08-04,5
+C0029,Mateo,Khan,Paris,France,Retail,2021-03-29,2
+C0030,Lucas,Johnson,London,United Kingdom,Retail,2014-05-19,2
+C0031,Camille,Thompson,London,United Kingdom,Retail,2012-07-30,1
+C0032,Yusuf,Robinson,Birmingham,United Kingdom,Retail,2014-09-21,3
+C0033,Thomas,Rossi,Birmingham,United Kingdom,Retail,2023-08-27,2
+C0034,Leo,Clarke,Bristol,United Kingdom,Retail,2013-07-23,3
+C0035,Amira,Lewis,London,United Kingdom,Retail,2024-03-20,5
+C0036,Hugo,Garcia,London,United Kingdom,Retail,2022-11-07,3
+C0037,Mia,Martin,Lyon,France,Retail,2023-08-05,4
+C0038,Yusuf,Novak,London,United Kingdom,Retail,2018-02-12,3
+C0039,Isla,Evans,Manchester,United Kingdom,Retail,2019-09-19,2
+C0040,Chloe,Muller,Birmingham,United Kingdom,Retail,2022-06-28,2
+C0041,Leo,Brown,Birmingham,United Kingdom,Retail,2023-10-08,4
+C0042,Hugo,Johnson,Paris,France,Retail,2014-02-01,4
+C0043,Arthur,Hall,Bristol,United Kingdom,Private,2016-02-03,5
+C0044,Sophia,Thompson,Manchester,United Kingdom,Retail,2024-11-01,4
+C0045,Thomas,Dubois,London,United Kingdom,Retail,2024-09-27,3
+C0046,Charlie,Patel,Edinburgh,United Kingdom,Retail,2014-12-22,2
+C0047,Arthur,Wilson,London,United Kingdom,Retail,2013-05-10,4
+C0048,Sophia,Martin,Leeds,United Kingdom,Retail,2023-05-13,2
+C0049,Isla,Robinson,Edinburgh,United Kingdom,SME,2015-08-15,2
+C0050,Arthur,Novak,London,United Kingdom,SME,2017-10-06,3
+C0051,Ava,Davies,London,United Kingdom,Retail,2014-10-04,1
+C0052,Mateo,Novak,Edinburgh,United Kingdom,Retail,2022-03-24,3
+C0053,Thomas,Jones,Bristol,United Kingdom,SME,2019-02-02,3
+C0054,Arthur,Bernard,Edinburgh,United Kingdom,SME,2020-05-23,4
+C0055,Mateo,Patel,Leeds,United Kingdom,Retail,2019-12-28,1
+C0056,Sofia,Smith,Leeds,United Kingdom,Retail,2019-05-31,2
+C0057,Lucas,Lewis,New York,United States,Retail,2021-05-06,2
+C0058,Jack,Wright,Frankfurt,Germany,Retail,2013-04-04,3
+C0059,Thomas,Brown,London,United Kingdom,Retail,2014-10-26,3
+C0060,Amira,Robinson,Edinburgh,United Kingdom,Retail,2024-12-19,2
+C0061,Noah,Davies,Manchester,United Kingdom,Private,2016-12-03,4
+C0062,Olivia,Bernard,London,United Kingdom,Private,2024-02-21,3
+C0063,Freya,Rossi,Manchester,United Kingdom,Retail,2012-07-10,1
+C0064,Arthur,Patel,Edinburgh,United Kingdom,SME,2015-02-09,5
+C0065,Camille,Wilson,Edinburgh,United Kingdom,Retail,2023-07-13,4
+C0066,Oscar,Garcia,Manchester,United Kingdom,Private,2013-04-05,3
+C0067,Lily,Roberts,London,United Kingdom,Retail,2016-12-22,3
+C0068,Mateo,Moreau,Lyon,France,SME,2020-12-13,3
+C0069,Lucas,Davies,Manchester,United Kingdom,Retail,2018-03-09,2
+C0070,George,White,London,United Kingdom,Retail,2024-04-22,4
+C0071,Yusuf,Khan,Frankfurt,Germany,Retail,2015-07-20,3
+C0072,Sofia,Smith,London,United Kingdom,SME,2023-09-26,3
+C0073,Amira,Wilson,Paris,France,Retail,2020-05-11,3
+C0074,Priya,Moreau,London,United Kingdom,Retail,2012-05-30,3
+C0075,Priya,Khan,Lyon,France,Retail,2012-12-31,5
+C0076,Oscar,Rossi,Manchester,United Kingdom,Retail,2015-07-18,5
+C0077,Mia,Moreau,London,United Kingdom,Retail,2024-04-12,2
+C0078,Charlie,Bernard,London,United Kingdom,Private,2015-08-21,4
+C0079,Emily,Thompson,London,United Kingdom,Retail,2020-09-18,2
+C0080,Olivia,Novak,Paris,France,Retail,2022-10-07,5
+C0081,Chloe,Ahmed,Manchester,United Kingdom,Private,2024-01-20,2
+C0082,Sophia,Wright,Birmingham,United Kingdom,Retail,2015-09-04,1
+C0083,Yusuf,Ahmed,London,United Kingdom,Private,2012-01-17,4
+C0084,Emily,Johnson,London,United Kingdom,Retail,2017-07-25,2
+C0085,Harry,Brown,New York,United States,SME,2013-08-22,2
+C0086,Amira,Brown,Bristol,United Kingdom,Retail,2023-03-09,2
+C0087,Camille,Thompson,Birmingham,United Kingdom,Retail,2022-03-24,4
+C0088,Isla,Garcia,Manchester,United Kingdom,SME,2023-02-05,4
+C0089,Yusuf,Davies,London,United Kingdom,Retail,2021-09-13,3
+C0090,Mateo,Ahmed,Manchester,United Kingdom,Private,2023-01-23,3
+C0091,Lucas,White,London,United Kingdom,Retail,2019-10-26,4
+C0092,Camille,Rossi,Manchester,United Kingdom,Retail,2016-10-09,2
+C0093,Yusuf,Moreau,Paris,France,Retail,2018-01-01,2
+C0094,Freya,Muller,London,United Kingdom,SME,2017-11-29,2
+C0095,Lily,Wright,Bristol,United Kingdom,SME,2024-08-03,4
+C0096,Charlie,White,London,United Kingdom,Retail,2020-12-16,1
+C0097,Yusuf,Walker,Leeds,United Kingdom,Retail,2023-02-04,4
+C0098,Camille,Bernard,Lyon,France,Private,2023-08-03,2
+C0099,Oliver,Jones,Manchester,United Kingdom,SME,2015-11-17,1
+C0100,Freya,Williams,Edinburgh,United Kingdom,Retail,2021-04-19,4
+C0101,Hugo,Ahmed,Paris,France,Retail,2012-04-06,1
+C0102,Ava,Bernard,London,United Kingdom,SME,2018-01-09,2
+C0103,Lucas,White,Paris,France,Retail,2020-04-14,1
+C0104,Jack,Garcia,Leeds,United Kingdom,Retail,2014-02-22,2
+C0105,Leo,Johnson,New York,United States,Retail,2015-10-31,3
+C0106,Arthur,Dubois,London,United Kingdom,Retail,2024-07-16,2
+C0107,Arthur,Jones,London,United Kingdom,Retail,2023-07-07,5
+C0108,Mateo,Roberts,New York,United States,Retail,2019-08-27,2
+C0109,Harry,Patel,Manchester,United Kingdom,Retail,2019-05-03,4
+C0110,Harry,Williams,London,United Kingdom,Retail,2020-03-18,2
+C0111,Grace,Thompson,Paris,France,Retail,2020-12-20,2
+C0112,Camille,Walker,Edinburgh,United Kingdom,SME,2023-06-01,3
+C0113,Emily,Roberts,Paris,France,Retail,2023-06-06,5
+C0114,Harry,Wright,Edinburgh,United Kingdom,Retail,2020-01-28,2
+C0115,Hugo,Rossi,New York,United States,Retail,2017-10-10,5
+C0116,Oscar,Green,New York,United States,SME,2014-05-21,4
+C0117,Olivia,White,New York,United States,Retail,2021-08-15,3
+C0118,Oscar,Johnson,Edinburgh,United Kingdom,Private,2018-01-26,4
+C0119,Mia,Hall,Leeds,United Kingdom,Retail,2019-04-22,2
+C0120,Jack,Clarke,Bristol,United Kingdom,Private,2016-03-28,2
+C0121,Mia,Moreau,Edinburgh,United Kingdom,Retail,2024-11-06,1
+C0122,Amelia,Patel,Bristol,United Kingdom,Private,2016-01-06,2
+C0123,Priya,Thompson,New York,United States,Retail,2015-10-10,2
+C0124,Sophia,Bernard,London,United Kingdom,Retail,2022-12-25,4
+C0125,Emily,Davies,New York,United States,Retail,2024-03-04,1
+C0126,Arthur,Williams,Leeds,United Kingdom,SME,2015-04-08,3
+C0127,Olivia,Jones,London,United Kingdom,Retail,2017-10-08,2
+C0128,Oscar,Johnson,London,United Kingdom,SME,2014-01-07,3
+C0129,Camille,Muller,Birmingham,United Kingdom,Retail,2017-01-14,3
+C0130,George,Wilson,Birmingham,United Kingdom,Retail,2021-06-18,3
+C0131,George,Dubois,Birmingham,United Kingdom,Retail,2018-12-03,3
+C0132,Jack,Clarke,Birmingham,United Kingdom,Retail,2016-09-24,3
+C0133,Isla,Thompson,London,United Kingdom,Private,2015-07-18,2
+C0134,Arthur,Johnson,London,United Kingdom,SME,2021-08-06,1
+C0135,Amira,Ahmed,New York,United States,SME,2018-01-10,2
+C0136,Olivia,Roberts,Manchester,United Kingdom,Retail,2018-02-15,4
+C0137,Mia,Brown,Birmingham,United Kingdom,Private,2024-07-20,2
+C0138,Noah,Clarke,Manchester,United Kingdom,Retail,2013-01-30,5
+C0139,Oliver,Garcia,Leeds,United Kingdom,Retail,2013-10-07,3
+C0140,Camille,Rossi,Manchester,United Kingdom,Retail,2023-11-23,5
+C0141,Emily,Jones,Paris,France,Retail,2012-12-09,1
+C0142,Charlie,Brown,Frankfurt,Germany,Retail,2024-11-23,5
+C0143,Jack,Smith,Bristol,United Kingdom,Retail,2019-02-21,2
+C0144,Isla,Wilson,London,United Kingdom,Retail,2017-09-19,1
+C0145,Isla,Garcia,London,United Kingdom,Retail,2014-09-07,3
+C0146,Oliver,Dubois,Lyon,France,Retail,2022-07-23,2
+C0147,Leo,Dubois,Leeds,United Kingdom,Retail,2017-05-07,3
+C0148,Arthur,Jones,Lyon,France,Retail,2016-02-18,3
+C0149,Charlie,Roberts,Paris,France,Retail,2022-10-30,3
+C0150,Grace,Evans,Birmingham,United Kingdom,Private,2023-11-16,3
+C0151,Lily,Novak,London,United Kingdom,Retail,2017-12-29,4
+C0152,Charlie,Smith,Lyon,France,Retail,2023-08-30,2
+C0153,Charlie,Thompson,Edinburgh,United Kingdom,SME,2013-09-14,3
+C0154,Lucas,Brown,Birmingham,United Kingdom,SME,2021-04-30,3
+C0155,Grace,Jones,London,United Kingdom,Retail,2015-10-16,3
+C0156,Isla,Patel,Frankfurt,Germany,Retail,2012-10-24,2
+C0157,Lucas,Dubois,Lyon,France,Retail,2022-01-13,3
+C0158,Sofia,Dubois,London,United Kingdom,Retail,2023-07-24,3
+C0159,Mateo,Ahmed,London,United Kingdom,SME,2016-04-05,3
+C0160,Amelia,Robinson,New York,United States,Retail,2013-06-20,2
+C0161,Thomas,Martin,London,United Kingdom,Retail,2017-10-25,1
+C0162,Jack,Wilson,Leeds,United Kingdom,Retail,2023-08-03,3
+C0163,Camille,Jones,London,United Kingdom,Retail,2017-02-13,3
+C0164,Lily,Jones,Birmingham,United Kingdom,Retail,2020-08-26,3
+C0165,Thomas,Wilson,Birmingham,United Kingdom,Retail,2015-09-10,3
+C0166,Oliver,Evans,Birmingham,United Kingdom,Retail,2015-10-15,3
+C0167,Isla,Moreau,London,United Kingdom,Private,2024-09-17,4
+C0168,Camille,Muller,Paris,France,Retail,2015-05-05,3
+C0169,Harry,Hall,Manchester,United Kingdom,Retail,2012-01-13,4
+C0170,Priya,Roberts,London,United Kingdom,Retail,2024-09-16,2
+C0171,Isla,Moreau,New York,United States,Retail,2012-06-21,3
+C0172,Noah,Ahmed,London,United Kingdom,Retail,2018-10-24,3
+C0173,Charlie,Wilson,Edinburgh,United Kingdom,Retail,2023-12-01,1
+C0174,Mateo,Moreau,London,United Kingdom,Retail,2022-04-11,3
+C0175,Harry,Garcia,London,United Kingdom,SME,2023-04-10,5
+C0176,Isla,Williams,Birmingham,United Kingdom,Retail,2023-10-30,2
+C0177,Freya,Smith,Manchester,United Kingdom,Retail,2018-08-17,5
+C0178,Amira,Smith,Manchester,United Kingdom,Retail,2014-09-22,1
+C0179,Leo,Rossi,Paris,France,Retail,2020-08-21,5
+C0180,Leo,Moreau,Birmingham,United Kingdom,SME,2018-09-02,2
+C0181,Arthur,Roberts,Leeds,United Kingdom,Retail,2019-01-09,4
+C0182,Jack,Smith,London,United Kingdom,Retail,2018-08-09,3
+C0183,Noah,Davies,Paris,France,SME,2019-04-19,2
+C0184,Noah,Williams,London,United Kingdom,Retail,2024-01-12,2
+C0185,Emily,Lewis,Bristol,United Kingdom,Retail,2020-06-23,3
+C0186,Mateo,White,Manchester,United Kingdom,Retail,2023-05-30,2
+C0187,Camille,Johnson,Leeds,United Kingdom,Retail,2021-08-27,3
+C0188,Noah,Martin,London,United Kingdom,Retail,2013-04-29,3
+C0189,Lucas,Clarke,Leeds,United Kingdom,Retail,2024-08-07,2
+C0190,Priya,Martin,Manchester,United Kingdom,SME,2023-06-17,2
+C0191,Thomas,Green,Bristol,United Kingdom,Retail,2019-11-13,4
+C0192,Olivia,Walker,Edinburgh,United Kingdom,Retail,2020-09-08,3
+C0193,Hugo,Rossi,Frankfurt,Germany,Retail,2020-06-22,2
+C0194,Hugo,Smith,Paris,France,Retail,2016-10-29,2
+C0195,Harry,Muller,Bristol,United Kingdom,Retail,2023-07-04,2
+C0196,Isla,Brown,London,United Kingdom,Retail,2020-11-30,2
+C0197,Amira,Green,Bristol,United Kingdom,SME,2014-03-17,3
+C0198,Sofia,Smith,Manchester,United Kingdom,Retail,2013-06-27,4
+C0199,Leo,Martin,Bristol,United Kingdom,Retail,2014-05-14,4
+C0200,Lucas,Hall,London,United Kingdom,SME,2019-08-24,3
+C0201,George,Davies,London,United Kingdom,Retail,2022-06-16,5
+C0202,Mateo,Hall,Frankfurt,Germany,Private,2021-07-02,4
+C0203,Olivia,Bernard,London,United Kingdom,Retail,2013-05-28,3
+C0204,Harry,Thompson,London,United Kingdom,Private,2013-01-20,3
+C0205,Isla,Patel,Birmingham,United Kingdom,Private,2023-10-02,2
+C0206,Sophia,Smith,London,United Kingdom,SME,2018-11-24,2
+C0207,Lucas,Brown,Paris,France,Retail,2020-03-08,5
+C0208,Sofia,Martin,London,United Kingdom,Retail,2017-12-04,2
+C0209,Hugo,Khan,Lyon,France,Retail,2023-09-30,2
+C0210,Amelia,Hall,Manchester,United Kingdom,Retail,2023-10-29,3
+C0211,Hugo,Novak,Manchester,United Kingdom,Retail,2021-11-27,2
+C0212,Emily,Patel,Paris,France,Retail,2017-07-14,1
+C0213,Thomas,Wright,London,United Kingdom,Retail,2014-10-02,3
+C0214,Arthur,Clarke,Manchester,United Kingdom,Retail,2020-06-09,3
+C0215,Hugo,Muller,New York,United States,SME,2022-02-27,3
+C0216,George,Smith,Edinburgh,United Kingdom,Private,2020-08-30,3
+C0217,Lucas,Roberts,Paris,France,Retail,2021-04-09,3
+C0218,Hugo,Dubois,Bristol,United Kingdom,Retail,2024-03-20,4
+C0219,Oliver,Walker,London,United Kingdom,Retail,2018-09-23,4
+C0220,Freya,Smith,New York,United States,Retail,2013-04-17,1
+C0221,Priya,Thompson,London,United Kingdom,SME,2024-02-08,3
+C0222,Jack,Green,Leeds,United Kingdom,Retail,2013-03-21,2
+C0223,Arthur,Davies,London,United Kingdom,Retail,2013-07-01,4
+C0224,Isla,Khan,Paris,France,SME,2020-09-14,1
+C0225,Camille,Hall,Birmingham,United Kingdom,Private,2018-06-09,3
+C0226,Yusuf,Muller,Manchester,United Kingdom,Private,2016-04-06,5
+C0227,Mia,Patel,Manchester,United Kingdom,Retail,2024-01-10,2
+C0228,Amelia,Taylor,Manchester,United Kingdom,Retail,2024-11-16,3
+C0229,Amira,Martin,Birmingham,United Kingdom,Retail,2012-01-07,2
+C0230,Lucas,Williams,Paris,France,Retail,2018-01-18,5
+C0231,Thomas,Williams,Birmingham,United Kingdom,Retail,2015-07-28,4
+C0232,Olivia,Ahmed,Leeds,United Kingdom,Retail,2022-06-17,2
+C0233,Isla,Novak,Manchester,United Kingdom,SME,2020-03-25,3
+C0234,Jack,Davies,London,United Kingdom,Retail,2017-09-29,1
+C0235,Ava,Muller,Edinburgh,United Kingdom,Retail,2017-01-18,3
+C0236,Lucas,Novak,Manchester,United Kingdom,Retail,2015-05-11,2
+C0237,Ava,Evans,London,United Kingdom,Retail,2022-07-24,2
+C0238,Sophia,Thompson,London,United Kingdom,Retail,2015-01-13,3
+C0239,Lucas,Hall,London,United Kingdom,Retail,2024-06-15,2
+C0240,Arjun,Patel,Frankfurt,Germany,Retail,2012-10-05,4
+C0241,Leo,Evans,London,United Kingdom,SME,2014-04-26,2
+C0242,Yusuf,Muller,London,United Kingdom,Retail,2022-09-27,2
+C0243,Priya,Lewis,London,United Kingdom,SME,2013-07-10,2
+C0244,Sofia,Johnson,Birmingham,United Kingdom,Retail,2024-02-12,1
+C0245,Grace,Smith,New York,United States,Retail,2019-02-21,1
+C0246,Oscar,Muller,Birmingham,United Kingdom,Retail,2019-07-01,3
+C0247,Amelia,Thompson,Bristol,United Kingdom,SME,2024-11-30,3
+C0248,Harry,Dubois,Frankfurt,Germany,Retail,2019-09-04,4
+C0249,Freya,Hall,London,United Kingdom,Retail,2019-09-22,4
+C0250,Chloe,Taylor,Edinburgh,United Kingdom,Retail,2012-06-19,3
+C0251,Amelia,Martin,Frankfurt,Germany,Retail,2022-08-06,2
+C0252,Noah,Brown,Bristol,United Kingdom,Private,2019-12-25,5
+C0253,Lily,Walker,London,United Kingdom,Retail,2016-08-27,2
+C0254,Yusuf,Smith,London,United Kingdom,Retail,2023-10-31,3
+C0255,Sofia,Rossi,London,United Kingdom,SME,2014-12-19,4
+C0256,Emily,Wilson,Leeds,United Kingdom,Retail,2021-08-30,2
+C0257,Jack,Walker,Paris,France,Retail,2020-11-22,2
+C0258,Grace,Clarke,Manchester,United Kingdom,Retail,2024-11-05,4
+C0259,Freya,Garcia,New York,United States,Retail,2017-05-10,3
+C0260,Hugo,Rossi,Paris,France,Retail,2013-12-29,4
+C0261,Sophia,Taylor,Leeds,United Kingdom,Retail,2016-12-12,3
+C0262,Emily,Clarke,London,United Kingdom,Retail,2022-03-13,1
+C0263,Arjun,Ahmed,London,United Kingdom,SME,2014-01-21,3
+C0264,Sofia,Garcia,London,United Kingdom,Retail,2013-07-05,4
+C0265,Oscar,Walker,Frankfurt,Germany,Private,2021-05-24,1
+C0266,Freya,Brown,Leeds,United Kingdom,Private,2023-09-12,4
+C0267,Oliver,Rossi,London,United Kingdom,Retail,2019-02-14,5
+C0268,Yusuf,Patel,London,United Kingdom,Retail,2018-05-09,4
+C0269,Freya,Garcia,Edinburgh,United Kingdom,Retail,2022-04-24,5
+C0270,Arjun,Taylor,Paris,France,Private,2014-11-21,2
+C0271,Olivia,Wilson,London,United Kingdom,Retail,2014-01-30,3
+C0272,Jack,Dubois,Manchester,United Kingdom,Retail,2024-07-16,1
+C0273,Olivia,Dubois,London,United Kingdom,Retail,2019-01-12,3
+C0274,Harry,Jones,London,United Kingdom,Private,2014-06-05,3
+C0275,Chloe,Rossi,London,United Kingdom,Retail,2023-01-19,2
+C0276,George,White,London,United Kingdom,Retail,2012-10-23,2
+C0277,Harry,White,New York,United States,Retail,2014-02-28,4
+C0278,Noah,Novak,New York,United States,Retail,2014-05-11,2
+C0279,Isla,Taylor,London,United Kingdom,Retail,2012-08-20,2
+C0280,Amelia,Jones,London,United Kingdom,SME,2012-02-15,3
+C0281,Olivia,Robinson,London,United Kingdom,Retail,2016-05-31,4
+C0282,Sofia,Walker,New York,United States,Retail,2019-07-25,4
+C0283,Charlie,Davies,London,United Kingdom,SME,2013-10-31,4
+C0284,Leo,Jones,London,United Kingdom,Retail,2014-02-05,4
+C0285,Hugo,Rossi,Paris,France,Retail,2012-06-15,4
+C0286,Thomas,Moreau,Paris,France,Retail,2015-10-20,2
+C0287,Isla,Moreau,Lyon,France,SME,2016-04-07,2
+C0288,Mia,Roberts,London,United Kingdom,Retail,2014-04-05,3
+C0289,Jack,Novak,London,United Kingdom,Retail,2014-05-19,4
+C0290,Mateo,Smith,New York,United States,Retail,2022-07-23,4
+C0291,Jack,Ahmed,Manchester,United Kingdom,Retail,2021-06-27,2
+C0292,Camille,Wright,New York,United States,Retail,2023-03-06,3
+C0293,Mia,Ahmed,Paris,France,SME,2022-05-27,2
+C0294,Isla,Williams,Edinburgh,United Kingdom,Retail,2022-03-17,4
+C0295,Yusuf,Dubois,Frankfurt,Germany,Retail,2017-12-15,2
+C0296,Arthur,Evans,New York,United States,SME,2023-08-05,4
+C0297,Yusuf,Novak,Edinburgh,United Kingdom,Retail,2015-11-25,1
+C0298,Priya,Lewis,Leeds,United Kingdom,Retail,2018-12-15,2
+C0299,Arjun,Robinson,London,United Kingdom,Retail,2015-08-29,3
+C0300,Priya,Smith,New York,United States,Private,2020-03-07,1
+C0301,Amira,Brown,London,United Kingdom,Retail,2023-09-07,3
+C0302,Olivia,Robinson,Edinburgh,United Kingdom,Retail,2014-09-13,3
+C0303,Camille,Brown,Edinburgh,United Kingdom,Retail,2015-03-19,2
+C0304,Charlie,Thompson,London,United Kingdom,SME,2021-10-20,3
+C0305,Amira,Roberts,London,United Kingdom,Retail,2015-02-22,4
+C0306,Amelia,Martin,Manchester,United Kingdom,Retail,2014-02-21,3
+C0307,Amira,Brown,Edinburgh,United Kingdom,Retail,2016-04-08,3
+C0308,Amelia,White,Manchester,United Kingdom,Retail,2015-09-25,2
+C0309,Chloe,Dubois,Edinburgh,United Kingdom,Retail,2019-07-02,2
+C0310,Harry,Robinson,London,United Kingdom,Private,2019-02-22,4
+C0311,Grace,Novak,London,United Kingdom,SME,2020-02-12,2
+C0312,Lucas,Jones,Leeds,United Kingdom,Retail,2022-11-13,5
+C0313,Mateo,Ahmed,Leeds,United Kingdom,Private,2013-08-17,5
+C0314,Chloe,Lewis,London,United Kingdom,SME,2017-01-28,2
+C0315,Arthur,Wright,Manchester,United Kingdom,Retail,2012-10-16,3
+C0316,Arthur,Hall,Edinburgh,United Kingdom,Retail,2014-05-13,2
+C0317,Noah,Taylor,London,United Kingdom,Retail,2012-07-24,2
+C0318,Sophia,Brown,Manchester,United Kingdom,Retail,2015-07-21,1
+C0319,Ava,Taylor,New York,United States,Retail,2015-01-28,3
+C0320,Ava,Rossi,London,United Kingdom,Retail,2016-09-26,2
+C0321,Hugo,Green,Edinburgh,United Kingdom,Retail,2016-10-20,5
+C0322,Amira,Taylor,Manchester,United Kingdom,SME,2020-05-29,4
+C0323,Sofia,Moreau,Leeds,United Kingdom,Retail,2015-12-04,5
+C0324,Lucas,Green,Leeds,United Kingdom,SME,2020-06-19,2
+C0325,Lucas,Hall,Paris,France,Retail,2020-11-15,1
+C0326,George,Robinson,Leeds,United Kingdom,SME,2018-06-02,4
+C0327,Oliver,Robinson,Birmingham,United Kingdom,Retail,2017-09-27,2
+C0328,Freya,Muller,Birmingham,United Kingdom,SME,2015-07-07,3
+C0329,Amira,Ahmed,Frankfurt,Germany,Retail,2017-09-20,3
+C0330,Noah,Jones,Birmingham,United Kingdom,Retail,2022-06-22,1
+C0331,Noah,Moreau,Bristol,United Kingdom,Retail,2020-02-09,2
+C0332,Noah,Thompson,London,United Kingdom,SME,2012-03-29,3
+C0333,Arthur,Patel,London,United Kingdom,Retail,2017-02-13,2
+C0334,Lucas,Novak,Birmingham,United Kingdom,Retail,2015-09-27,2
+C0335,Leo,Brown,Lyon,France,Retail,2020-12-31,2
+C0336,Camille,Clarke,London,United Kingdom,Retail,2013-01-02,4
+C0337,Olivia,Wright,Birmingham,United Kingdom,Retail,2017-06-23,4
+C0338,Camille,Walker,Frankfurt,Germany,Retail,2012-02-03,3
+C0339,Charlie,Evans,Manchester,United Kingdom,Retail,2021-03-04,3
+C0340,Harry,Hall,Edinburgh,United Kingdom,Retail,2012-12-30,3
+C0341,Charlie,Walker,Frankfurt,Germany,Retail,2016-01-20,1
+C0342,Sofia,White,Bristol,United Kingdom,Retail,2019-06-14,2
+C0343,Priya,Clarke,Frankfurt,Germany,Retail,2014-07-09,1
+C0344,Oscar,Clarke,Paris,France,Private,2021-02-21,3
+C0345,Chloe,Green,London,United Kingdom,SME,2015-10-01,4
+C0346,Olivia,Taylor,Lyon,France,Retail,2021-07-08,5
+C0347,Thomas,Green,London,United Kingdom,Retail,2016-03-06,5
+C0348,Amelia,Dubois,Birmingham,United Kingdom,Retail,2015-06-09,2
+C0349,Isla,Novak,London,United Kingdom,Retail,2021-11-05,2
+C0350,Noah,Patel,Frankfurt,Germany,Retail,2016-08-28,2
+C0351,Sofia,White,Leeds,United Kingdom,Retail,2015-07-20,1
+C0352,George,Muller,London,United Kingdom,SME,2018-07-02,2
+C0353,Thomas,Bernard,Bristol,United Kingdom,Retail,2014-12-27,3
+C0354,Isla,Hall,Lyon,France,SME,2024-11-27,1
+C0355,Sophia,Taylor,London,United Kingdom,Retail,2021-09-09,3
+C0356,Charlie,Wilson,Birmingham,United Kingdom,SME,2015-09-24,3
+C0357,Oscar,Johnson,London,United Kingdom,SME,2014-08-30,2
+C0358,Arjun,Lewis,Edinburgh,United Kingdom,Retail,2020-04-30,3
+C0359,Yusuf,Williams,Frankfurt,Germany,Retail,2020-05-21,2
+C0360,Harry,Robinson,London,United Kingdom,Retail,2020-08-22,5
+C0361,Oscar,Johnson,Birmingham,United Kingdom,Retail,2022-12-07,3
+C0362,Oliver,Williams,London,United Kingdom,Retail,2012-10-10,3
+C0363,Freya,Wright,Frankfurt,Germany,Retail,2013-08-02,1
+C0364,Chloe,Robinson,Manchester,United Kingdom,Retail,2024-11-04,3
+C0365,Amira,Hall,Manchester,United Kingdom,Retail,2013-01-11,1
+C0366,Priya,Green,Bristol,United Kingdom,Retail,2018-05-17,3
+C0367,Ava,Johnson,New York,United States,SME,2013-06-08,4
+C0368,Amelia,Patel,Manchester,United Kingdom,Private,2012-08-26,3
+C0369,Sofia,White,Paris,France,Retail,2013-08-10,3
+C0370,Chloe,Dubois,Paris,France,SME,2021-06-10,1
+C0371,Isla,Jones,New York,United States,Retail,2019-07-26,3
+C0372,Freya,Robinson,New York,United States,Retail,2020-03-21,2
+C0373,Harry,Thompson,Manchester,United Kingdom,Private,2017-07-19,3
+C0374,Chloe,Taylor,Bristol,United Kingdom,Retail,2015-11-08,2
+C0375,Arjun,Jones,Edinburgh,United Kingdom,SME,2015-09-07,5
+C0376,Jack,Martin,Lyon,France,Retail,2013-04-29,2
+C0377,Lily,Ahmed,Bristol,United Kingdom,Retail,2018-09-14,2
+C0378,Lily,Johnson,Birmingham,United Kingdom,Retail,2024-09-12,4
+C0379,Hugo,Brown,Edinburgh,United Kingdom,Retail,2019-04-28,4
+C0380,Freya,White,London,United Kingdom,Retail,2023-05-27,1
+C0381,Thomas,Green,Edinburgh,United Kingdom,Retail,2020-06-27,2
+C0382,George,Lewis,Edinburgh,United Kingdom,Retail,2015-02-02,4
+C0383,Freya,Wright,London,United Kingdom,SME,2021-10-03,1
+C0384,Arthur,Dubois,Edinburgh,United Kingdom,Retail,2012-08-25,3
+C0385,Grace,Thompson,Manchester,United Kingdom,Retail,2020-02-10,1
+C0386,Emily,Wilson,Edinburgh,United Kingdom,Retail,2020-08-26,3
+C0387,Ava,Martin,Edinburgh,United Kingdom,Retail,2016-09-08,2
+C0388,Mateo,Taylor,Birmingham,United Kingdom,SME,2016-12-21,3
+C0389,Leo,White,Birmingham,United Kingdom,Retail,2016-05-12,3
+C0390,Oscar,Martin,Paris,France,Retail,2024-09-19,1
+C0391,Arjun,Rossi,London,United Kingdom,SME,2018-02-03,1
+C0392,Isla,Lewis,Birmingham,United Kingdom,SME,2017-09-02,1
+C0393,Arthur,Clarke,Frankfurt,Germany,Retail,2021-06-29,5
+C0394,Freya,Johnson,London,United Kingdom,SME,2020-02-07,5
+C0395,Chloe,Brown,Leeds,United Kingdom,Retail,2022-01-05,4
+C0396,Leo,Hall,Manchester,United Kingdom,Retail,2023-02-14,2
+C0397,Priya,Evans,Leeds,United Kingdom,Retail,2013-09-28,2
+C0398,Sofia,Lewis,London,United Kingdom,Retail,2023-03-20,4
+C0399,Mia,Bernard,Edinburgh,United Kingdom,SME,2024-05-27,1
+C0400,George,Ahmed,London,United Kingdom,Retail,2021-12-16,3
+C0401,Noah,Green,Paris,France,Retail,2023-06-23,2
+C0402,Noah,Garcia,Edinburgh,United Kingdom,Retail,2022-12-27,3
+C0403,Sofia,Martin,Edinburgh,United Kingdom,Retail,2022-12-30,2
+C0404,Arjun,Thompson,Birmingham,United Kingdom,Retail,2018-07-16,3
+C0405,Hugo,Moreau,London,United Kingdom,SME,2021-03-20,3
+C0406,Arjun,Roberts,Edinburgh,United Kingdom,Retail,2016-03-19,1
+C0407,Freya,Garcia,Frankfurt,Germany,Retail,2023-08-19,3
+C0408,Freya,Green,Birmingham,United Kingdom,SME,2016-06-20,3
+C0409,Camille,Johnson,London,United Kingdom,Retail,2013-08-08,3
+C0410,Camille,Williams,Birmingham,United Kingdom,Retail,2016-08-02,4
+C0411,Amelia,Wright,Birmingham,United Kingdom,Retail,2022-08-29,4
+C0412,Lucas,Wright,Birmingham,United Kingdom,Retail,2019-11-28,3
+C0413,Ava,Novak,London,United Kingdom,Retail,2024-12-01,2
+C0414,Arjun,Moreau,Bristol,United Kingdom,SME,2016-04-13,2
+C0415,Harry,Novak,London,United Kingdom,SME,2019-01-19,4
+C0416,Freya,Johnson,New York,United States,Retail,2014-09-04,2
+C0417,Harry,Martin,Edinburgh,United Kingdom,Retail,2016-03-28,3
+C0418,Lucas,Rossi,Birmingham,United Kingdom,Retail,2018-11-12,3
+C0419,Leo,Johnson,Manchester,United Kingdom,Retail,2014-01-16,2
+C0420,George,Williams,Paris,France,SME,2024-05-06,4
+C0421,Ava,Davies,Birmingham,United Kingdom,Retail,2022-01-15,2
+C0422,Lucas,Smith,Lyon,France,Retail,2012-11-20,3
+C0423,Sophia,Green,Manchester,United Kingdom,Retail,2016-08-09,4
+C0424,Camille,Johnson,New York,United States,Retail,2024-12-05,1
+C0425,Sofia,Garcia,Paris,France,Retail,2023-06-06,2
+C0426,Thomas,Wright,London,United Kingdom,Private,2018-05-02,4
+C0427,Isla,Rossi,Frankfurt,Germany,Private,2024-01-15,2
+C0428,Amira,Roberts,London,United Kingdom,Retail,2015-01-21,2
+C0429,Olivia,Rossi,New York,United States,Private,2018-09-07,3
+C0430,Sofia,Taylor,Manchester,United Kingdom,Retail,2020-09-11,2
+C0431,Thomas,Wright,Frankfurt,Germany,Retail,2020-01-16,4
+C0432,Mateo,Jones,Paris,France,Retail,2013-09-02,1
+C0433,Mia,Hall,Leeds,United Kingdom,SME,2020-12-03,2
+C0434,Arthur,Smith,Edinburgh,United Kingdom,Retail,2014-02-03,5
+C0435,Lily,Jones,Bristol,United Kingdom,Retail,2012-10-23,3
+C0436,Noah,Wright,Manchester,United Kingdom,SME,2019-05-12,3
+C0437,Sophia,Johnson,London,United Kingdom,SME,2023-09-12,3
+C0438,Amelia,Lewis,Frankfurt,Germany,Private,2015-05-07,2
+C0439,Thomas,Rossi,Manchester,United Kingdom,Retail,2023-09-17,2
+C0440,Lucas,Patel,London,United Kingdom,Retail,2019-08-21,4
+C0441,Lucas,Smith,Edinburgh,United Kingdom,Retail,2014-07-25,4
+C0442,Lucas,White,London,United Kingdom,Retail,2017-03-26,4
+C0443,Camille,Davies,Manchester,United Kingdom,Private,2018-05-10,3
+C0444,George,Taylor,Manchester,United Kingdom,Retail,2024-08-30,2
+C0445,Arjun,Novak,Frankfurt,Germany,Retail,2016-04-07,3
+C0446,Thomas,Ahmed,Lyon,France,SME,2024-02-11,1
+C0447,Arjun,Johnson,London,United Kingdom,Private,2014-01-17,3
+C0448,Leo,Johnson,Leeds,United Kingdom,Retail,2017-07-10,3
+C0449,Mateo,Walker,London,United Kingdom,Retail,2019-01-31,3
+C0450,Amelia,Wright,Paris,France,Private,2014-07-19,5
+C0451,Jack,Johnson,Paris,France,Private,2022-08-13,3
+C0452,Lily,Khan,London,United Kingdom,SME,2016-02-21,4
+C0453,Priya,Davies,Birmingham,United Kingdom,Retail,2022-07-23,2
+C0454,Charlie,Jones,Birmingham,United Kingdom,Retail,2015-07-07,3
+C0455,Arthur,Patel,London,United Kingdom,SME,2019-05-04,2
+C0456,Lily,Walker,London,United Kingdom,Retail,2012-04-01,2
+C0457,Emily,Dubois,London,United Kingdom,Retail,2022-12-26,2
+C0458,Yusuf,Bernard,London,United Kingdom,Retail,2019-07-12,5
+C0459,Oliver,Williams,London,United Kingdom,SME,2020-11-18,5
+C0460,Noah,White,Manchester,United Kingdom,Private,2020-01-17,3
+C0461,Arthur,Smith,Paris,France,Retail,2013-12-20,3
+C0462,George,Hall,Birmingham,United Kingdom,Private,2016-05-11,3
+C0463,Charlie,Clarke,Paris,France,Private,2022-01-08,3
+C0464,Lily,Taylor,Bristol,United Kingdom,Retail,2023-03-10,1
+C0465,Noah,Jones,New York,United States,Retail,2020-06-26,4
+C0466,Emily,Ahmed,New York,United States,Retail,2022-01-26,3
+C0467,Lily,Roberts,Frankfurt,Germany,Retail,2014-09-01,3
+C0468,Arthur,Dubois,Birmingham,United Kingdom,Retail,2018-06-26,4
+C0469,Oliver,Dubois,London,United Kingdom,Retail,2020-06-30,1
+C0470,Jack,Davies,Birmingham,United Kingdom,SME,2019-06-30,2
+C0471,Ava,Wright,Birmingham,United Kingdom,SME,2023-01-17,3
+C0472,Amira,Johnson,London,United Kingdom,Retail,2017-03-24,3
+C0473,Yusuf,Muller,Bristol,United Kingdom,Retail,2018-11-05,2
+C0474,Mateo,Taylor,London,United Kingdom,Retail,2023-05-09,4
+C0475,Ava,Roberts,London,United Kingdom,Retail,2013-03-04,2
+C0476,Arjun,Ahmed,London,United Kingdom,Retail,2024-12-02,2
+C0477,Ava,Walker,London,United Kingdom,Retail,2022-10-17,1
+C0478,Chloe,Robinson,Birmingham,United Kingdom,Retail,2016-06-30,5
+C0479,Isla,White,Bristol,United Kingdom,Retail,2022-10-07,2
+C0480,Sofia,Garcia,Paris,France,SME,2015-07-26,2
+C0481,Arjun,Bernard,Bristol,United Kingdom,Retail,2014-07-01,3
+C0482,Mia,Moreau,Paris,France,Retail,2012-11-26,1
+C0483,Amelia,Bernard,London,United Kingdom,SME,2020-09-20,2
+C0484,Thomas,White,London,United Kingdom,Retail,2022-01-07,3
+C0485,Arthur,Clarke,Manchester,United Kingdom,Retail,2020-06-21,3
+C0486,Grace,Taylor,Birmingham,United Kingdom,Retail,2024-03-31,3
+C0487,Oscar,Bernard,London,United Kingdom,Retail,2012-09-12,3
+C0488,Lucas,Moreau,Edinburgh,United Kingdom,SME,2022-07-23,3
+C0489,Camille,White,New York,United States,Retail,2020-06-01,4
+C0490,George,Moreau,London,United Kingdom,Retail,2012-03-26,1
+C0491,Chloe,Hall,Birmingham,United Kingdom,Retail,2024-04-18,1
+C0492,Sophia,Walker,Paris,France,Private,2019-10-01,5
+C0493,Emily,Johnson,New York,United States,Retail,2023-02-10,5
+C0494,Emily,Smith,Lyon,France,SME,2019-11-06,2
+C0495,Amelia,Roberts,Edinburgh,United Kingdom,Retail,2017-06-28,3
+C0496,Grace,Thompson,Birmingham,United Kingdom,Retail,2013-01-15,2
+C0497,Lucas,Ahmed,London,United Kingdom,Retail,2021-03-05,4
+C0498,Harry,Wright,Leeds,United Kingdom,Retail,2024-11-23,3
+C0499,Ava,Evans,Paris,France,Retail,2015-01-07,5
+C0500,Emily,Khan,Leeds,United Kingdom,Retail,2022-01-07,4
